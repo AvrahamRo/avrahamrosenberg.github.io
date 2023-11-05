@@ -13,19 +13,19 @@
   contents:
     - title: Master of Science (MSc)
       institution: École Normale Supérieure Paris-Saclay
-      year: 2022-2023
+      year: 2023
       description:
         - MVA (Mathematics, Vision, and Learning)
         - title: Courses.
           contents:
             - Statistical Learning
             - Computational Statistcs
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Engineering (M.Eng) 
+      institution: ENSIIE - University of Paris-Saclay
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Ok
+        - ok2
 
 - title: Experience
   type: time_table
