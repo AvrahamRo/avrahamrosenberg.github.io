@@ -2,25 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Avraham Rosenberg
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd July 1999
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science (MSc)
+      institution: École Normale Supérieure Paris-Saclay
+      year: 2022-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - MVA (Mathematics, Vision, and Learning)
+        - title: Courses.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Statistical Learning
+            - Computational Statistcs
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
