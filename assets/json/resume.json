@@ -1,61 +1,202 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Avraham Rosenberg",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "avraham.rosenberg@gmail.com",
+    "url": "https://avrahamrosenberg.github.io/",
+    "summary": "Graduated from the MVA master's program at the École Normale Supérieure and passionate about data analysis, data science and data engineering.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Paris",
+      "countryCode": "France"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "AvrahamRosenberg",
+        "url": "https://twitter.com/AvrahamRosenberg"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Quantmetry - Part of Capgemini Invent, Paris - France",
+      "position": "Data Scientist Consultant",
+      "startDate": "2023-07",
+      "endDate": "2023-10",
+      "summary": "Internal R&D mission involving the comparison of various Transformer-based models for time series forecasting",
       "highlights": [
-        "Relativity"
+        "Research and preparation of datasets (Transports and Energy) (Pandas,Gluonts, Hugging Face)",
+        "Implementation of several Deep Learning models based on Transformers (Autoformer, Informer, Temporal fusion transformation) (PyTorch, Gluonts)",
+        "Implementation of training and evaluation methods",
+        "Implementation of Machine Learning models (LGBM)",
+        "Configuration of multiple tracking tools (MLflow, TensorBoard)",
+        "Project configuration setup (Hydra)",
+        "Utilization of Git version control systems",
+        "Facilitation of internal meetings",
+        "Writing a blog article"
+      ]
+    },
+
+    {
+      "name": "Quantmetry - Part of Capgemini Invent, Paris - France",
+      "position": "Data Scientist Consultant",
+      "startDate": "2023-04",
+      "endDate": "2023-10",
+      "summary": "Mission at Dassault Aviation",
+      "highlights": [
+        "Data preparation and data analysis (Pyspark, Pandas)",
+        "Implementation of statistical models (Bayesian methods for multilevel modeling)",
+        "Implementation of Machine Learning models (Random Forest, LGBM, Bayesian Logistic Regression)",
+        "Delivery of commented code with documentation ",
+        "Facilitation and preparation of workshops for business team"
+      ]
+    },
+
+    {
+      "name": "Yale University, New-Haven - United-States",
+      "position": "Data Scientist Researcher,",
+      "startDate": "2022-06",
+      "endDate": "2022-10",
+      "summary": "Researcher in the CarDS Medicine Laboratory at Yale University School of Medicine. The objectives were to analyze the signal from wearable ECGs for noise filtering, and to develop deep learning algorithms for ECG classification.",
+      "highlights": [
+        "Implementation of Fourier analysis to process wearable ECG signals and reduce noise (Pandas, Neurokit, Scikit-learn, SciPy)",
+        "Implementation of Deep Learning models for ECG classification (Tensorflow, PyTorch",
+        "Technical presentations to medical teams"
+      ]
+    },
+
+    {
+      "name": "Datascientest, La Défense- France",
+      "position": "Data Scientist",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
+      "summary": "Setting up online training content in Data Science",
+      "highlights": [
+        "Creation of exercises and course modules in Data Science and Machine Learning (Pandas, Matplotlib, Seaborn, Scikit-learn)",
+        "Organizing a career workshop through video conferencing for learners",
+        "Writing three blog articles"
+      ]
+    },
+
+    {
+      "name": "Galaxis Capital, London - United Kingdom",
+      "position": "Analyst",
+      "startDate": "2018-07",
+      "endDate": "2018-08",
+      "highlights": [
+        "Analysis of real estate data from various regions in Great Britain",
+        "Analysis of the company's investment plan in different start-ups"
       ]
     }
   ],
-  "volunteer": [],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "École Normale Supérieure Paris-Saclay",
+      "url": "https://www.master-mva.com",
+      "area": "MVA (Mathematics, Vision, and Learning)",
+      "studyType": "Master of Science (MSc)",
+      "startDate": "2022",
+      "endDate": "2023",
+      "score": "15/20",
       "courses": [
-        "Theory of Relativity"
+        "Times  Series",
+        "Computational Statistics",
+        "Statistical Learning,",
+        "Convex Optimization",
+        " Computer Vision",
+        "Object Recognition",
+        "Geometric Data Analysis",
+        "Object Recognition"
       ]
+    },
+    {
+      "institution": "ENSIIE - University of Paris-Saclay",
+      "url": "https://www.universite-paris-saclay.fr",
+      "area": " Mathematics and Computer Science",
+      "studyType": " Master of Engineering (M.Eng) ",
+      "startDate": "2020",
+      "endDate": "2023",
+      "score": "16/20",
+      "courses": [
+        "Statistical Modeling",
+        "Regression Methods",
+        "Data Analysis,",
+        "Stochastic Processes",
+        "Brownian Motion",
+        "Operations Research",
+        "Partial Differential Equations Analysis"
+      ]
+    },
+    {
+      "institution": "University of Paris-Saclay",
+      "url": "https://www.universite-paris-saclay.fr",
+      "area": " Mathematics",
+      "studyType": "Bachelor's Degree ",
+      "startDate": "2020",
+      "endDate": "2021",
+      "score": "17/20",
+      "courses": [
+        "Probability",
+        "Statistics",
+        "Graph Theory",
+        "Numerical Analysis Methods",
+        "Measure Theory",
+        "Optimization",
+        "Relational Database Design"
+      ]
+    },
+    {
+      "institution": "Lycée Kléber",
+      "url": "https://lycee-kleber.com.fr/cpge-scientifiques/",
+      "area": " MPSI - PSI* - MP*",
+      "studyType": "Preparation for national competitive entrance exams leading to top French Engineering Schools ",
+      "startDate": "2017",
+      "endDate": "2020",
+      "courses": [
+      ]
+    }
+  ],
+
+  "volunteer": [
+
+    {
+      "url": "https://datasciience.iiens.net",
+      "position": "President of the Data Science and AI Club: DatascIIEnce ",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Leading an association of 70 members. Setting up of formations and projects, organisation of conferences and participation in events (meetings and exhibitions)."
+    },
+
+    {
+      "url": "https://www.diese.org",
+      "position": "Treasurer and Project Leader within the Diese Junior Enterprise ",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Budget management for a 20-person organization. Handling tax and social declarations. Supervision of an accountant and a certified public accountant. Invoicing. Project management in mathematics and computer science.."
+    },
+
+    {
+      "url": "https://thekeeprising.com",
+      "startDate": "2019",
+      "endDate": "today",
+      "position": "Secretary-General of the humanitarian association Keep Rising",
+      "summary": "Help for the underprivileged and disabled individuals"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Medal of Excellence",
+      "date": "2015, 2016, 2017",
+      "awarder": "Lycée Lucien de Hirsch",
+      "summary": ""
+    },
+    {
+      "title": "Presentation at High School General Competitions",
+      "date": "2017",
+      "awarder": "Concours général",
+      "summary": "Mathematics and Physics"
     }
   ],
   "certificates": [],
@@ -63,7 +204,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
