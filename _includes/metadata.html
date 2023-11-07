@@ -178,6 +178,10 @@
         {%- capture link -%}https://www.kaggle.com/{{ site.kaggle_id }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
+    {%- if site.malt_id -%}
+        {%- capture link -%}https://www.malt.fr/profile/{{ site.malt_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
     {%- if site.lastfm_id -%}
         {%- capture link -%}https://www.last.fm/user/{{ site.lastfm_id }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}

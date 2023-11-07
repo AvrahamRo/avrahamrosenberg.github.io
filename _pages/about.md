@@ -18,6 +18,15 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+Hello everyone 
+
+My name is Avraham Rosenberg and I'm a passionate engineer in the field of Data, with degrees from the École Normale Supérieure and ENSIIE - Université Paris Saclay.
+
+I've set up my own Data Science consulting company. For more information, please go to [Rosenberg's AI](/rosenbergsai/N) 
+
+On this site, I'd like to share my [experience](/cv/) with you, as well as my various projects and articles.
+
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
