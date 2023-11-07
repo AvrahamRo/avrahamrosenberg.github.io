@@ -138,12 +138,12 @@ By choosing Avraham as a freelance partner, you'll benefit from his expertise in
     <div class="row mt-3">
       <div class="col-md-6">
         <a href="mailto:arosenberg.ia@gmail.com">
-          {% include figure.html path="assets/img/mailR.png" class="img-fluid rounded z-depth-1" width="100" %}
+          {% include figure.html path="assets/img/mailR.png" width="100" %}
         </a>
       </div>
       <div class="col-md-6">
         <a href="https://www.malt.fr/profile/avrahamrosenberg">
-          {% include figure.html path="assets/img/maltR.png" class="img-fluid rounded z-depth-1" width="100" %}
+          {% include figure.html path="assets/img/maltR.png"  width="100" %}
         </a>
       </div>
     </div>
